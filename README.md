@@ -1,1 +1,1 @@
-# zadaciZaSamostalanRad
+# dinamicka alokacija
