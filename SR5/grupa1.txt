@@ -1,0 +1,3 @@
+Namir 8.5 2
+Marko 8.4 1
+Ajla 10.0 0
