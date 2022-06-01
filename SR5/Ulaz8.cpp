@@ -7,10 +7,6 @@
 
 using namespace std;
 
-//U datoteci ulaz.txt nalazi se broj elemenata niza.Procitati taj broj, alocirati niz te ducine i unjeti
-//vrijednosti elemenata tog niza.Izracunati prosjecnu vrijednost, prosiriti niz za jedno mjesto i ubaciti
-//prosjek u niz.U novu datoteku Izlaz.txt upisati sortiran dati niz.
-
 
 void Adi_Zu()
 {
