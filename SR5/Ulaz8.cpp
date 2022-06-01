@@ -8,7 +8,7 @@
 using namespace std;
 
 
-void Adi_Zu()
+int main()
 {
 	ifstream file("ulaz.txt");
 
